@@ -10,3 +10,4 @@ date | topic | link
 18.3 | Read06: Problem Domain, Objects, and the DOM | [Problem Domain, Objects, and the DOM](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-06)|
 21.3 | Read07: Object-Oriented Programming, HTML Tables | [Object-Oriented Programming, HTML Tables](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-07)
 22.3 | Read08: More CSS Layout | [More CSS Layout](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-08) 
+23.3 | Read09: Forms and JS Events | [Forms and JS Events](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-09)
