@@ -12,3 +12,4 @@ date | topic | link
 22.3 | Read08: More CSS Layout | [More CSS Layout](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-08) 
 23.3 | Read09: Forms and JS Events | [Forms and JS Events](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-09)
 24.3 | Read10: Debugging | [Debugging](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-10)
+25.3 | Read11: Audio, Video, Images | [Audio, Video, Images](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-11)
