@@ -13,3 +13,4 @@ date | topic | link
 23.3 | Read09: Forms and JS Events | [Forms and JS Events](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-09)
 24.3 | Read10: Debugging | [Debugging](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-10)
 25.3 | Read11: Audio, Video, Images | [Audio, Video, Images](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-11)
+28.3 | Read12: Chart.js, Canvas | [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-12)
