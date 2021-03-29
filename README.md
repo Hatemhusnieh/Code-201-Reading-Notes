@@ -15,3 +15,4 @@ date | topic | link
 25.3 | Read11: Audio, Video, Images | [Audio, Video, Images](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-11)
 28.3 | Read12: Chart.js, Canvas | [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-12)
 29.3 | Read13: Local Storage | [Local Storage](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-13)
+30.3 | Rad14: CSS Transforms, Transitions, and Animations |  [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14)
