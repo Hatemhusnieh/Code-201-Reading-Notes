@@ -1,15 +1,4 @@
 # CSS Transforms, Transitions, and Animations
-## What Google Learned From Its Quest to Build the Perfect Team
- A team should be supportive and not fall into competing who's gonna take the lead and who rules around. And having the same background does not mean having a good and dynamic team, sometimes the best teams come from different backgrounds and different experiences.  
-
-Collaborative work has grown substantially over tha last decades, team work became essential within companies. It has been proven, that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.  
-
-Good teams have two things in common. The first, everyone has the same or almost even amount of talking end expressing them selfs. And the second, sensing others emotions states or in fancy word ‘‘average social sensitivity’’. The combination of the twi will create eventually something called **psychological safety**  
-
-Achieving **psychological safety** is not easy in any means. It is hard to force people to respect, understand and be sympathetic with each others.  
-
-Success is often built on experiences — like emotional interactions and complicated conversations and discussions of who we want to be and how our teammates make us feel.  
-
 ## Transforms
 - The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.  
 
@@ -132,16 +121,9 @@ Animations within `CSS`3 allow the appearance and behavior of an element to be a
 
 - The `animation-fill-mode` property identifies how an element should be styled either before, after, or before and after an animation is run. The animation-fill-mode property accepts four keyword values, including `none`, `forwards`, `backwards`, and `both`
 
-- 
-
-
-
-
-
 
 
 # References:  
-- [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 
 
 - [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 

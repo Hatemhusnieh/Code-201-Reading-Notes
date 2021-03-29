@@ -15,4 +15,5 @@ date | topic | link
 25.3 | Read11: Audio, Video, Images | [Audio, Video, Images](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-11)
 28.3 | Read12: Chart.js, Canvas | [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-12)
 29.3 | Read13: Local Storage | [Local Storage](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-13)
-30.3 | Rad14: CSS Transforms, Transitions, and Animations |  [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14)
+30.3 | Read14a: What Google Learned From Its Quest to Build the Perfect Team | [What Google Learned From Its Quest to Build the Perfect Team](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14a)
+30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14b)
