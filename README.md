@@ -1,7 +1,26 @@
-# Code-201-Reading-Notes
-This Repo contains all my reading notes for my Code 201 course  
+# Reading-Note
+## Hatem Husnieh  
+I'm Hatem Husnieh, a mechatronics engineer. I have graduated in 2015 and worked since in many field including (mining, industry and human right organaizations). But it was always my passion to create programs and to code, and finally I am here living my passion.  
+hope to success and improve myself and those around me.  
+and this is my ugly face ^_^  
+![Me !!!](./imgs/me.jpg)  
+
+- This Repo contains all my reading notes for my front end courses  
+
 date | topic | link
----- | ----- | ----
+---- | ----- | ----  
+xxxx | 102 Notes | xxxx  
+05.3 | Read01: Growth Mindset  | [Growth Mindset](https://hatemhusnieh.github.io/Reading-Note/read0)  
+02.3 | Read02: Mastering Markdown on GitHub  | [Mastering Markdown on GitHub](https://hatemhusnieh.github.io/Reading-Note/read01)  
+02.3 | Read03: Choosing a Text Editor  | [Choosing a Text Editor](https://hatemhusnieh.github.io/Reading-Note/read02)  
+05.3 | Read04: Terminal (Git and GitHub)  | [Terminal (Git and GitHub)](https://hatemhusnieh.github.io/Reading-Note/read03)  
+05.3 | Read05: HTMLK & CSS  | [HTMLK & CSS](https://hatemhusnieh.github.io/Reading-Note/read04)  
+04.3 | Read06: Programming with JavaScript  | [Programming with JavaScript](https://hatemhusnieh.github.io/Reading-Note/Programming%20with%20JavaScript)  
+04.3 | Read07: How Computers Work  | [How Computers Work](https://hatemhusnieh.github.io/Reading-Note/How-Computers-Work)  
+04.3 | Read08: [Dynamic web pages with JavaScript  | [[Dynamic web pages with JavaScript](https://hatemhusnieh.github.io/Reading-Note/Daynamic.web.pages) 
+09.3 | Read09: Comparison Operators  | [Comparison Operators](https://hatemhusnieh.github.io/Reading-Note/Comparision-Operators)  
+08.3 | Read10: # Introducing CSS | [# Introducing CSS](https://hatemhusnieh.github.io/Reading-Note/CSS)  
+xxxx | 201 Notes | xxxx  
 13.3 | Read01: Before Class 1  | [Before class 1](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-01)
 14.3 | Read02: Basics of HTML, CSS & JS | [Basics of HTML, CSS & JS](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-02)  
 15.3 | Read03: HTML Lists, Control Flow with JS, and the CSS Box | [HTML Lists, Control Flow with JS, and the CSS Box](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-03) 
@@ -16,4 +35,5 @@ date | topic | link
 28.3 | Read12: Chart.js, Canvas | [Chart.js, Canvas](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-12)
 29.3 | Read13: Local Storage | [Local Storage](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-13)
 30.3 | Read14a: What Google Learned From Its Quest to Build the Perfect Team | [What Google Learned From Its Quest to Build the Perfect Team](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14a)
-30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14b)
+30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Code-201-Reading-Notes/class-14b)  
+xxxx | 301 Notes | xxxx 
