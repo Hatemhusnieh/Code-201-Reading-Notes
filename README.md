@@ -37,4 +37,4 @@ xxxx | 201 Notes | xxxx
 30.3 | Read14a: What Google Learned From Its Quest to Build the Perfect Team | [What Google Learned From Its Quest to Build the Perfect Team](https://hatemhusnieh.github.io/Reading-Notes/class-14a)
 30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Reading-Notes/class-14b)  
 xxxx | 301 Notes | xxxx 
-24.4 | Read: Class 01 |  [Introduction to React and Components](https://hatemhusnieh.github.io/Reading-Notes/class-14b) 
+24.4 | Read: Class 01 |  [Introduction to React and Components](https://hatemhusnieh.github.io/Reading-Notes) 
