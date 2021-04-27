@@ -38,4 +38,5 @@ xxxx | 201 Notes | xxxx
 30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Reading-Notes/class-14b)  
 xxxx | 301 Notes | xxxx 
 24.4 | Read: Class 01 |  [Introduction to React and Components](https://hatemhusnieh.github.io/Reading-Notes/Class-301.1)
-25.4 | Read: Class 02 | [State and Props](https://hatemhusnieh.github.io/Reading-Notes/class-301-02)
+25.4 | Read: Class 02 | [State and Props](https://hatemhusnieh.github.io/Reading-Notes/class-301-02)  
+26.4 | Read: Class 03 | [Passing Functions as Props](https://hatemhusnieh.github.io/Reading-Notes/class-301-03)
