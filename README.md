@@ -44,3 +44,4 @@ xxxx | 301 Notes | xxxx
 30.4 | Read: Class 05 | [Putting it all together](https://hatemhusnieh.github.io/Reading-Notes/class-301-05)
 01.5 | Read: Class 06 | [NODE.JS](https://hatemhusnieh.github.io/Reading-Notes/class-301-06)
 03.5 | Read: Class 07 | [REST](https://hatemhusnieh.github.io/Reading-Notes/class-301-07)
+08.5 | Read: Class 08 | [APIs](https://hatemhusnieh.github.io/Reading-Notes/class-301-08)
