@@ -7,6 +7,8 @@ and this is my ugly face ^_^
 
 - This Repo contains all my reading notes for my front end courses  
 
+## 101 Notes  
+
 date | topic | link
 ---- | ----- | ----  
 xxxx | 102 Notes | xxxx  
@@ -20,7 +22,11 @@ xxxx | 102 Notes | xxxx
 04.3 | Read08: [Dynamic web pages with JavaScript  | [[Dynamic web pages with JavaScript](https://hatemhusnieh.github.io/Reading-Note/Daynamic.web.pages) 
 09.3 | Read09: Comparison Operators  | [Comparison Operators](https://hatemhusnieh.github.io/Reading-Note/Comparision-Operators)  
 08.3 | Read10: # Introducing CSS | [# Introducing CSS](https://hatemhusnieh.github.io/Reading-Note/CSS)  
-xxxx | 201 Notes | xxxx  
+
+## 201 Notes  
+
+date | topic | link
+---- | ----- | ----   
 13.3 | Read01: Before Class 1  | [Before class 1](https://hatemhusnieh.github.io/Reading-Notes/class-01)
 14.3 | Read02: Basics of HTML, CSS & JS | [Basics of HTML, CSS & JS](https://hatemhusnieh.github.io/Reading-Notes/class-02)  
 15.3 | Read03: HTML Lists, Control Flow with JS, and the CSS Box | [HTML Lists, Control Flow with JS, and the CSS Box](https://hatemhusnieh.github.io/Reading-Notes/class-03) 
@@ -36,7 +42,11 @@ xxxx | 201 Notes | xxxx
 29.3 | Read13: Local Storage | [Local Storage](https://hatemhusnieh.github.io/Reading-Notes/class-13)
 30.3 | Read14a: What Google Learned From Its Quest to Build the Perfect Team | [What Google Learned From Its Quest to Build the Perfect Team](https://hatemhusnieh.github.io/Reading-Notes/class-14a)
 30.3 | Rad14b: CSS Transforms, Transitions, and Animations |  [CSS Transforms, Transitions, and Animations](https://hatemhusnieh.github.io/Reading-Notes/class-14b)  
-xxxx | 301 Notes | xxxx 
+
+## 301 Notes  
+
+date | topic | link
+---- | ----- | ---- 
 24.4 | Read: Class 01 |  [Introduction to React and Components](https://hatemhusnieh.github.io/Reading-Notes/Class-301.1)
 25.4 | Read: Class 02 | [State and Props](https://hatemhusnieh.github.io/Reading-Notes/class-301-02)  
 26.4 | Read: Class 03 | [Passing Functions as Props](https://hatemhusnieh.github.io/Reading-Notes/class-301-03)
@@ -45,3 +55,4 @@ xxxx | 301 Notes | xxxx
 01.5 | Read: Class 06 | [NODE.JS](https://hatemhusnieh.github.io/Reading-Notes/class-301-06)
 03.5 | Read: Class 07 | [REST](https://hatemhusnieh.github.io/Reading-Notes/class-301-07)
 08.5 | Read: Class 08 | [APIs](https://hatemhusnieh.github.io/Reading-Notes/class-301-08)
+08.5 | Read: Class 09 | [FUNCTIONAL PROGRAMMING](https://hatemhusnieh.github.io/Reading-Notes/class-301-09)
