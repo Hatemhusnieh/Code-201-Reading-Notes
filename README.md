@@ -58,4 +58,4 @@ date | topic | link
 08.5 | Read: Class 09 | [FUNCTIONAL PROGRAMMING](https://hatemhusnieh.github.io/Reading-Notes/class-301-09)
 08.5 | Read: Class 10 | [In memory storage](https://hatemhusnieh.github.io/Reading-Notes/class-301-10)
 16.5 | Read: Class 11 | [Authentication](https://hatemhusnieh.github.io/Reading-Notes/class-301-11)
-16.5 | Read: Class 12 | [Mongo and Mongoose](https://hatemhusnieh.github.io/Reading-Notes/class-301-11)
+16.5 | Read: Class 12 | [Mongo and Mongoose](https://hatemhusnieh.github.io/Reading-Notes/class-301-12)
