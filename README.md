@@ -57,3 +57,4 @@ date | topic | link
 08.5 | Read: Class 08 | [APIs](https://hatemhusnieh.github.io/Reading-Notes/class-301-08)
 08.5 | Read: Class 09 | [FUNCTIONAL PROGRAMMING](https://hatemhusnieh.github.io/Reading-Notes/class-301-09)
 08.5 | Read: Class 10 | [In memory storage](https://hatemhusnieh.github.io/Reading-Notes/class-301-10)
+09.5 | Read: Class 11 | [Authentication](https://hatemhusnieh.github.io/Reading-Notes/class-301-11)
