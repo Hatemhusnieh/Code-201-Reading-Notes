@@ -61,3 +61,9 @@ date | topic | link
 16.5 | Read: Class 12 | [Mongo and Mongoose](https://hatemhusnieh.github.io/Reading-Notes/class-301-12)
 18.5 | Read: Class 13 | [CRUD](https://hatemhusnieh.github.io/Reading-Notes/class-301-13)
 19.5 | Read: Class 14 | [Diversity & Inclusion in the Tech Industry](https://hatemhusnieh.github.io/Reading-Notes/class-301-14)
+  
+## 401 Notes  
+
+date | topic | link
+---- | ----- | ---- 
+24.6 | Readings ... Get Ready for 401 |  [Readings ... Get Ready for 401]()
