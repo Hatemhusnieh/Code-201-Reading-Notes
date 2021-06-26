@@ -68,4 +68,5 @@ date | topic | link
 ---- | ----- | ---- 
 24.6 | Readings ... Get Ready for 401 |  [Readings ... Get Ready for 401](https://hatemhusnieh.github.io/Reading-Notes/prep-401)
 25.6 | Node Ecosystem, TDD, CI/CD  |  [Class-01](https://hatemhusnieh.github.io/Reading-Notes/class-401-01)
+27.6 | Express  |  [Class-02](https://hatemhusnieh.github.io/Reading-Notes/class-401-0)
 
