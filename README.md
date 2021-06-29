@@ -70,4 +70,5 @@ date | topic | link
 25.6 | Node Ecosystem, TDD, CI/CD  |  [Class-01](https://hatemhusnieh.github.io/Reading-Notes/class-401-01)
 27.6 | Express  |  [Class-02](https://hatemhusnieh.github.io/Reading-Notes/class-401-02)
 28.6 | Express REST API  |  [Class-03](https://hatemhusnieh.github.io/Reading-Notes/class-401-03)
+29.6 | Data Modeling  |  [Class-04](https://hatemhusnieh.github.io/Reading-Notes/class-401-04)
 
