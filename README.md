@@ -74,5 +74,6 @@ date | topic | link
 30.6 | Linked Lists  |  [Class-05](https://hatemhusnieh.github.io/Reading-Notes/class-401-05)
 03.7 | Authentication  |  [Class-06](https://hatemhusnieh.github.io/Reading-Notes/class-401-06)
 04.7 | Bearer Authorization  |  [Class-07](https://hatemhusnieh.github.io/Reading-Notes/class-401-07)
+05.7 | Access Control (ACL)  |  [Class-08](https://hatemhusnieh.github.io/Reading-Notes/class-401-08)
 
 
