@@ -76,5 +76,6 @@ date | topic | link
 04.7 | Bearer Authorization  |  [Class-07](https://hatemhusnieh.github.io/Reading-Notes/class-401-07)
 05.7 | Access Control (ACL)  |  [Class-08](https://hatemhusnieh.github.io/Reading-Notes/class-401-08)
 05.8 | SQL  |  [Class-09](https://hatemhusnieh.github.io/Reading-Notes/class-401-09)
+05.9 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-010)
 
 
