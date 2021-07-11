@@ -76,8 +76,9 @@ date | topic | link
 04.7 | Bearer Authorization  |  [Class-07](https://hatemhusnieh.github.io/Reading-Notes/class-401-07)
 05.7 | Access Control (ACL)  |  [Class-08](https://hatemhusnieh.github.io/Reading-Notes/class-401-08)
 06.7 | SQL  |  [Class-09](https://hatemhusnieh.github.io/Reading-Notes/class-401-09)
-07.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-010)
-08.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-010)
-10.7 | Event Driven Applications  |  [Class-11](https://hatemhusnieh.github.io/Reading-Notes/class-401-011)
+07.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-10)
+08.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-11)
+10.7 | Event Driven Applications  |  [Class-11](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
+11.7 | Socket.io  |  [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
 
 
