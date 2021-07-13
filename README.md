@@ -79,7 +79,8 @@ date | topic | link
 07.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-10)
 08.7 | Stacks and Queues  |  [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-11)
 10.7 | Event Driven Applications  |  [Class-11](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
-11.7 | Socket.io  |  [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
+11.7 | `Socket.io`  |  [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
 12.7 | Message Queues  |  [Class-13](https://hatemhusnieh.github.io/Reading-Notes/class-401-13)
+13.7 | Event Driven Architecture  |  [Class-14](https://hatemhusnieh.github.io/Reading-Notes/class-401-14)
 
 
