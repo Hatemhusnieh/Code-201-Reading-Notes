@@ -82,5 +82,6 @@ date | topic | link
 11.7 | `Socket.io`  |  [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)
 12.7 | Message Queues  |  [Class-13](https://hatemhusnieh.github.io/Reading-Notes/class-401-13)
 13.7 | Event Driven Architecture  |  [Class-14](https://hatemhusnieh.github.io/Reading-Notes/class-401-14)
+14.7 | Trees  |  [Class-15](https://hatemhusnieh.github.io/Reading-Notes/class-401-15)
 
 
