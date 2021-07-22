@@ -83,5 +83,4 @@ date | topic | link
 12.7 | Message Queues  |  [Class-13](https://hatemhusnieh.github.io/Reading-Notes/class-401-13)
 13.7 | Event Driven Architecture  |  [Class-14](https://hatemhusnieh.github.io/Reading-Notes/class-401-14)
 14.7 | Trees  |  [Class-15](https://hatemhusnieh.github.io/Reading-Notes/class-401-15)
-
-
+25.7 | AWS: Cloud Servers |  [Class-16](https://hatemhusnieh.github.io/Reading-Notes/class-401-16)
