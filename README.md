@@ -88,3 +88,4 @@ and this is my ugly face ^\_^
 | 25.7 | AWS: Cloud Servers | [Class-16](https://hatemhusnieh.github.io/Reading-Notes/class-401-16) |
 | 25.7 | AWS: S3 and Lambda | [Class-17](https://hatemhusnieh.github.io/Reading-Notes/class-401-17) |
 | 26.7 | AWS: API, Dynamo and Lambda | [Class-18](https://hatemhusnieh.github.io/Reading-Notes/class-401-18) |
+| 27.7 | AWS: Events | [Class-19](https://hatemhusnieh.github.io/Reading-Notes/class-401-19) |
