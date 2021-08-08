@@ -90,3 +90,4 @@ and this is my ugly face ^\_^
 | 26.7 | AWS: API, Dynamo and Lambda    | [Class-18](https://hatemhusnieh.github.io/Reading-Notes/class-401-18)                   |
 | 27.7 | AWS: Events                    | [Class-19](https://hatemhusnieh.github.io/Reading-Notes/class-401-19)                   |
 | 07.8 | Component Based UI             | [Class-26](https://hatemhusnieh.github.io/Reading-Notes/class-401-26)                   |
+| 08.8 | useState() Hook                | [Class-27](https://hatemhusnieh.github.io/Reading-Notes/class-401-27)                   |
