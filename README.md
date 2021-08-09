@@ -66,28 +66,29 @@ and this is my ugly face ^\_^
 
 ## 401 Notes
 
-| date | topic                          | link                                                                                    |
-| ---- | ------------------------------ | --------------------------------------------------------------------------------------- |
-| 24.6 | Readings ... Get Ready for 401 | [Readings ... Get Ready for 401](https://hatemhusnieh.github.io/Reading-Notes/prep-401) |
-| 25.6 | Node Ecosystem, TDD, CI/CD     | [Class-01](https://hatemhusnieh.github.io/Reading-Notes/class-401-01)                   |
-| 27.6 | Express                        | [Class-02](https://hatemhusnieh.github.io/Reading-Notes/class-401-02)                   |
-| 28.6 | Express REST API               | [Class-03](https://hatemhusnieh.github.io/Reading-Notes/class-401-03)                   |
-| 29.6 | Data Modeling                  | [Class-04](https://hatemhusnieh.github.io/Reading-Notes/class-401-04)                   |
-| 30.6 | Linked Lists                   | [Class-05](https://hatemhusnieh.github.io/Reading-Notes/class-401-05)                   |
-| 03.7 | Authentication                 | [Class-06](https://hatemhusnieh.github.io/Reading-Notes/class-401-06)                   |
-| 04.7 | Bearer Authorization           | [Class-07](https://hatemhusnieh.github.io/Reading-Notes/class-401-07)                   |
-| 05.7 | Access Control (ACL)           | [Class-08](https://hatemhusnieh.github.io/Reading-Notes/class-401-08)                   |
-| 06.7 | SQL                            | [Class-09](https://hatemhusnieh.github.io/Reading-Notes/class-401-09)                   |
-| 07.7 | Stacks and Queues              | [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-10)                   |
-| 08.7 | Stacks and Queues              | [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-11)                   |
-| 10.7 | Event Driven Applications      | [Class-11](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)                   |
-| 11.7 | `Socket.io`                    | [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)                   |
-| 12.7 | Message Queues                 | [Class-13](https://hatemhusnieh.github.io/Reading-Notes/class-401-13)                   |
-| 13.7 | Event Driven Architecture      | [Class-14](https://hatemhusnieh.github.io/Reading-Notes/class-401-14)                   |
-| 14.7 | Trees                          | [Class-15](https://hatemhusnieh.github.io/Reading-Notes/class-401-15)                   |
-| 25.7 | AWS: Cloud Servers             | [Class-16](https://hatemhusnieh.github.io/Reading-Notes/class-401-16)                   |
-| 25.7 | AWS: S3 and Lambda             | [Class-17](https://hatemhusnieh.github.io/Reading-Notes/class-401-17)                   |
-| 26.7 | AWS: API, Dynamo and Lambda    | [Class-18](https://hatemhusnieh.github.io/Reading-Notes/class-401-18)                   |
-| 27.7 | AWS: Events                    | [Class-19](https://hatemhusnieh.github.io/Reading-Notes/class-401-19)                   |
-| 07.8 | Component Based UI             | [Class-26](https://hatemhusnieh.github.io/Reading-Notes/class-401-26)                   |
-| 08.8 | useState() Hook                | [Class-27](https://hatemhusnieh.github.io/Reading-Notes/class-401-27)                   |
+| date | topic                                  | link                                                                                    |
+| ---- | -------------------------------------- | --------------------------------------------------------------------------------------- |
+| 24.6 | Readings ... Get Ready for 401         | [Readings ... Get Ready for 401](https://hatemhusnieh.github.io/Reading-Notes/prep-401) |
+| 25.6 | Node Ecosystem, TDD, CI/CD             | [Class-01](https://hatemhusnieh.github.io/Reading-Notes/class-401-01)                   |
+| 27.6 | Express                                | [Class-02](https://hatemhusnieh.github.io/Reading-Notes/class-401-02)                   |
+| 28.6 | Express REST API                       | [Class-03](https://hatemhusnieh.github.io/Reading-Notes/class-401-03)                   |
+| 29.6 | Data Modeling                          | [Class-04](https://hatemhusnieh.github.io/Reading-Notes/class-401-04)                   |
+| 30.6 | Linked Lists                           | [Class-05](https://hatemhusnieh.github.io/Reading-Notes/class-401-05)                   |
+| 03.7 | Authentication                         | [Class-06](https://hatemhusnieh.github.io/Reading-Notes/class-401-06)                   |
+| 04.7 | Bearer Authorization                   | [Class-07](https://hatemhusnieh.github.io/Reading-Notes/class-401-07)                   |
+| 05.7 | Access Control (ACL)                   | [Class-08](https://hatemhusnieh.github.io/Reading-Notes/class-401-08)                   |
+| 06.7 | SQL                                    | [Class-09](https://hatemhusnieh.github.io/Reading-Notes/class-401-09)                   |
+| 07.7 | Stacks and Queues                      | [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-10)                   |
+| 08.7 | Stacks and Queues                      | [Class-10](https://hatemhusnieh.github.io/Reading-Notes/class-401-11)                   |
+| 10.7 | Event Driven Applications              | [Class-11](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)                   |
+| 11.7 | `Socket.io`                            | [Class-12](https://hatemhusnieh.github.io/Reading-Notes/class-401-12)                   |
+| 12.7 | Message Queues                         | [Class-13](https://hatemhusnieh.github.io/Reading-Notes/class-401-13)                   |
+| 13.7 | Event Driven Architecture              | [Class-14](https://hatemhusnieh.github.io/Reading-Notes/class-401-14)                   |
+| 14.7 | Trees                                  | [Class-15](https://hatemhusnieh.github.io/Reading-Notes/class-401-15)                   |
+| 25.7 | AWS: Cloud Servers                     | [Class-16](https://hatemhusnieh.github.io/Reading-Notes/class-401-16)                   |
+| 25.7 | AWS: S3 and Lambda                     | [Class-17](https://hatemhusnieh.github.io/Reading-Notes/class-401-17)                   |
+| 26.7 | AWS: API, Dynamo and Lambda            | [Class-18](https://hatemhusnieh.github.io/Reading-Notes/class-401-18)                   |
+| 27.7 | AWS: Events                            | [Class-19](https://hatemhusnieh.github.io/Reading-Notes/class-401-19)                   |
+| 07.8 | Component Based UI                     | [Class-26](https://hatemhusnieh.github.io/Reading-Notes/class-401-26)                   |
+| 08.8 | useState() Hook                        | [Class-27](https://hatemhusnieh.github.io/Reading-Notes/class-401-27)                   |
+| 09.8 | Component Lifecycle / useEffect() Hook | [Class-28](https://hatemhusnieh.github.io/Reading-Notes/class-401-28)                   |
