@@ -92,3 +92,4 @@ and this is my ugly face ^\_^
 | 07.8 | Component Based UI                     | [Class-26](https://hatemhusnieh.github.io/Reading-Notes/class-401-26)                   |
 | 08.8 | useState() Hook                        | [Class-27](https://hatemhusnieh.github.io/Reading-Notes/class-401-27)                   |
 | 09.8 | Component Lifecycle / useEffect() Hook | [Class-28](https://hatemhusnieh.github.io/Reading-Notes/class-401-28)                   |
+| 09.8 | Advanced State with Reducers           | [Class-29](https://hatemhusnieh.github.io/Reading-Notes/class-401-29)                   |
