@@ -94,3 +94,4 @@ and this is my ugly face ^\_^
 | 09.8 | Component Lifecycle / useEffect() Hook | [Class-28](https://hatemhusnieh.github.io/Reading-Notes/class-401-28)                   |
 | 10.8 | Advanced State with Reducers           | [Class-29](https://hatemhusnieh.github.io/Reading-Notes/class-401-29)                   |
 | 11.8 | Hash Tables                            | [Class-30](https://hatemhusnieh.github.io/Reading-Notes/class-401-30)                   |
+| 14.8 | Context API                            | [Class-31](https://hatemhusnieh.github.io/Reading-Notes/class-401-31)                   |
