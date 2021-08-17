@@ -96,3 +96,4 @@ and this is my ugly face ^\_^
 | 11.8 | Hash Tables                            | [Class-30](https://hatemhusnieh.github.io/Reading-Notes/class-401-30)                   |
 | 14.8 | Context API                            | [Class-31](https://hatemhusnieh.github.io/Reading-Notes/class-401-31)                   |
 | 15.8 | Context API - Behaviors                | [Class-32](https://hatemhusnieh.github.io/Reading-Notes/class-401-32)                   |
+| 16.8 | `<Login />` and `<Auth />`             | [Class-33](https://hatemhusnieh.github.io/Reading-Notes/class-401-33)                   |
