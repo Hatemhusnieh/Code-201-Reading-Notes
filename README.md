@@ -98,3 +98,4 @@ and this is my ugly face ^\_^
 | 15.8 | Context API - Behaviors | [Class-32](https://hatemhusnieh.github.io/Reading-Notes/class-401-32) |
 | 16.8 | `<Login />` and `<Auth />` | [Class-33](https://hatemhusnieh.github.io/Reading-Notes/class-401-33) |
 | 18.8 | API Integration | [Class-34](https://hatemhusnieh.github.io/Reading-Notes/class-401-34) |
+| 19.8 | Graphs | [Class-35](https://hatemhusnieh.github.io/Reading-Notes/class-401-35) |
