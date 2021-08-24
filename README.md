@@ -101,3 +101,4 @@ and this is my ugly face ^\_^
 | 19.8 | Graphs | [Class-35](https://hatemhusnieh.github.io/Reading-Notes/class-401-35) |
 | 21.8 | Application State with Redux | [Class-36](https://hatemhusnieh.github.io/Reading-Notes/class-401-36) |
 | 21.8 | Redux - Combined Reducers | [Class-37](https://hatemhusnieh.github.io/Reading-Notes/class-401-37) |
+| 22.8 | Redux - Asynchronous Actions | [Class-38](https://hatemhusnieh.github.io/Reading-Notes/class-401-38) |
