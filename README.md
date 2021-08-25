@@ -103,3 +103,4 @@ and this is my ugly face ^\_^
 | 22.8 | Redux - Combined Reducers | [Class-37](https://hatemhusnieh.github.io/Reading-Notes/401/class-401-37) |
 | 23.8 | Redux - Asynchronous Actions | [Class-38](https://hatemhusnieh.github.io/Reading-Notes/401/class-401-38) |
 | 24.8 | Redux - Additional Topics | [Class-39](https://hatemhusnieh.github.io/Reading-Notes/401/class-401-39) |
+| 25.8 | React Native | [Class-41](https://hatemhusnieh.github.io/Reading-Notes/401/class-401-41) |
